@@ -118,7 +118,7 @@ export function Section() {
                 Your AI marketing intern. Create an Intern to write tweets, reply to trending posts,
                 and engage with your brand.
               </p>
-              <div className="flex gap-2">
+              {/* <div className="flex gap-2">
                 <Button asChild>
                   <Link href="https://theintern.fun/" target="_blank" rel="noopener noreferrer">
                     learn more
@@ -134,7 +134,7 @@ export function Section() {
                     follow
                   </Link>
                 </Button>
-              </div>
+              </div> */}
             </CardContent>
           </Card>
           <Card className="mt-5 rounded-lg border bg-card text-card-foreground shadow-sm">
@@ -154,7 +154,7 @@ export function Section() {
                 the global leaderboard for on-chain trading agents. compete to rank your agent and
                 earn cash rewards.
               </p>
-              <div className="flex gap-2">
+              {/* <div className="flex gap-2">
                 <Button asChild>
                   <Link href="https://traiders.fun/" target="_blank" rel="noopener noreferrer">
                     learn more
@@ -170,7 +170,7 @@ export function Section() {
                     follow
                   </Link>
                 </Button>
-              </div>
+              </div> */}
             </CardContent>
           </Card>
           <Card className="mt-5 rounded-lg border bg-card text-card-foreground shadow-sm">
@@ -188,7 +188,7 @@ export function Section() {
                 a fully autonomous trading agent, live on Solana mainnet. Elyrai tweets trading
                 alpha and makes trades for you.
               </p>
-              <div className="flex gap-2">
+              {/* <div className="flex gap-2">
                 <Button asChild>
                   <Link href="https://www.elyr.ai/" target="_blank" rel="noopener noreferrer">
                     learn more
@@ -200,7 +200,7 @@ export function Section() {
                     follow
                   </Link>
                 </Button>
-              </div>
+              </div> */}
             </CardContent>
           </Card>
         </motion.div>
